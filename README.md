@@ -1,2 +1,2 @@
 # nlp
-Dedicated to the best text analytics projects from SDW 
+Dedicated to text analytics projects from SDW 
